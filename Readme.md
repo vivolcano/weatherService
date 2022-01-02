@@ -6,5 +6,3 @@ When called, this service query a database for today's weather (temperature) in 
 After reading temperature, it service insert a new record in "weather_history". In the end, it return the temperature value back to the user.
 
 The attached screenshot from Postman shows an example of a request and response:
-
-![](Postman Screenshot.png)
